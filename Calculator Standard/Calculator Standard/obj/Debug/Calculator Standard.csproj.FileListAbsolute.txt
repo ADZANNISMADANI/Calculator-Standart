@@ -1,0 +1,9 @@
+D:\PROGRAM\Semester 3\Pemrograman Lanjut\Adhi\Calculator Standard\Calculator Standard\bin\Debug\Calculator Standard.exe.config
+D:\PROGRAM\Semester 3\Pemrograman Lanjut\Adhi\Calculator Standard\Calculator Standard\bin\Debug\Calculator Standard.exe
+D:\PROGRAM\Semester 3\Pemrograman Lanjut\Adhi\Calculator Standard\Calculator Standard\bin\Debug\Calculator Standard.pdb
+D:\PROGRAM\Semester 3\Pemrograman Lanjut\Adhi\Calculator Standard\Calculator Standard\obj\Debug\Calculator Standard.csprojResolveAssemblyReference.cache
+D:\PROGRAM\Semester 3\Pemrograman Lanjut\Adhi\Calculator Standard\Calculator Standard\obj\Debug\Calculator_Standard.Form1.resources
+D:\PROGRAM\Semester 3\Pemrograman Lanjut\Adhi\Calculator Standard\Calculator Standard\obj\Debug\Calculator_Standard.Properties.Resources.resources
+D:\PROGRAM\Semester 3\Pemrograman Lanjut\Adhi\Calculator Standard\Calculator Standard\obj\Debug\Calculator Standard.csproj.GenerateResource.Cache
+D:\PROGRAM\Semester 3\Pemrograman Lanjut\Adhi\Calculator Standard\Calculator Standard\obj\Debug\Calculator Standard.exe
+D:\PROGRAM\Semester 3\Pemrograman Lanjut\Adhi\Calculator Standard\Calculator Standard\obj\Debug\Calculator Standard.pdb
